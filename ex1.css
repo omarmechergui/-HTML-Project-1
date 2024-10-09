@@ -1,0 +1,12 @@
+body{
+    width: 90%;
+    background: linear-gradient(#ffffff , #ff002b );
+}
+
+#img1{
+    width: 80%;
+}
+#navi{
+    text-align: end;
+    
+}
